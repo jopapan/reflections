@@ -29,3 +29,5 @@ Merging the code of two branches in one commit.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging is faster and more convenient, but manual merging is safest.
