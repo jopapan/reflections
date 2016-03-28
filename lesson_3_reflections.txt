@@ -5,3 +5,9 @@ To share code with others and to backup.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Someone may change code and overwrite mine.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used to clone code (whatever) from another user in github.
+Branch is used to experiment in my local directory without affecting master.
+Clone is used to setup a clone of my own / another users repository locally.
